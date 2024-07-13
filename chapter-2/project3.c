@@ -12,4 +12,6 @@ int main(void) {
   scanf("%f", &radius);
 
   printf("Volume = %.2f", SPHERE_FORMULA * radius * radius * radius);
+
+  return 0;
 }

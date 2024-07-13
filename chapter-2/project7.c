@@ -38,4 +38,6 @@ int main(void) {
   printf("$10 bills: %d\n", bills_10);
   printf("$5 bills: %d\n", bills_5);
   printf("$1 bills: %d\n", bills_1);
+
+  return 0;
 }

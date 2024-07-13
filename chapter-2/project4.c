@@ -15,4 +15,6 @@ int main(void) {
   scanf("%f", &money);
 
   printf("With tax added: $%.2f", money * TAX_MULTIPLIER);
+
+  return 0;
 }

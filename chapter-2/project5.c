@@ -19,4 +19,6 @@ int main(void) {
                    x * x + 7 * x - 6;
 
   printf("Polynomial: %d", polynomial);
+
+  return 0;
 }

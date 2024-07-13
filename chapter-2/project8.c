@@ -41,4 +41,6 @@ int main(void) {
 
   loan_amount = loan_amount * monthly_interest_multiplier - monthly_payment;
   printf("Balance remaining after third payment: %.2f\n", loan_amount);
+
+  return 0;
 }

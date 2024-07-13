@@ -17,4 +17,6 @@ int main(void) {
   int polynomial = (((((3 * x + 2) * x - 5) * x - 1) * x + 7) * x - 6);
 
   printf("Polynomial: %d", polynomial);
+
+  return 0;
 }
